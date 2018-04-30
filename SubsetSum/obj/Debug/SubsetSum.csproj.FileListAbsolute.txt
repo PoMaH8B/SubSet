@@ -1,0 +1,10 @@
+C:\Users\Dmitry\YandexDisk\3 курс\SubsetSum\SubsetSum\bin\Debug\SubsetSum.exe.config
+C:\Users\Dmitry\YandexDisk\3 курс\SubsetSum\SubsetSum\bin\Debug\SubsetSum.exe
+C:\Users\Dmitry\YandexDisk\3 курс\SubsetSum\SubsetSum\bin\Debug\SubsetSum.pdb
+C:\Users\Dmitry\YandexDisk\3 курс\SubsetSum\SubsetSum\obj\Debug\SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\YandexDisk\3 курс\SubsetSum\SubsetSum\obj\Debug\SubsetSum.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\YandexDisk\3 курс\SubsetSum\SubsetSum\obj\Debug\SubsetSum.exe
+C:\Users\Dmitry\YandexDisk\3 курс\SubsetSum\SubsetSum\obj\Debug\SubsetSum.pdb
+C:\Users\Name\Downloads\SubsetSum\SubsetSum\bin\Debug\SubsetSum.exe.config
+C:\Users\Name\Downloads\SubsetSum\SubsetSum\obj\Debug\SubsetSum.exe
+C:\Users\Name\Downloads\SubsetSum\SubsetSum\obj\Debug\SubsetSum.pdb
